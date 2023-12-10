@@ -1,0 +1,4 @@
+
+1. Dependencies of this project is not included. To use and view the codes in this project please type "npm install" in your command terminal to install the dependencies in your code.
+2. Run the command to start running the json server : npx json-server --watch data/db.json --port 8000
+3. Then start the website using: npm run start
